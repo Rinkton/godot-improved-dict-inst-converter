@@ -1,9 +1,3 @@
-# all arrays should have only one type of elements
-# get_tscn
-
-# node
-# deep
-# auto array
 extends Node
 
 

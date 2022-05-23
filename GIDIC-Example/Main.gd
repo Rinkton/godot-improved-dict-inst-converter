@@ -34,7 +34,7 @@ func array_handling_demonstration(guy_sample):
 	var arr_inst = gidic.dicts2insts((dicts))
 	return arr_inst
 
-# Original inst2dict/dict2inst converts all in object, even if initially inst was a node,
+# Original inst2dict/dict2inst converts all in object, even if initially inst was a node;
 # so, if it's crucial and you want create new node from inst, then define get_tscn() function like
 # in Guy.gd and return there an path to tscn of your node.
 func insts_can_be_nodes_demonstration(guys):
