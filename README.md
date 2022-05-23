@@ -15,7 +15,7 @@ There's insts2dicts and dicts2insts functions, if you need to converting array's
 
 Instances can be nodes, not just objects; so dictionary have to convert into Node if is needed
 
-**In this repository you can to find gidic.gd in the Releases. That file have several functions:**
+**In this repository you can to find gidic.gd in the example project(or download it [via Google Drive](https://drive.google.com/file/d/142bfWZjkXhtbrIM-dOL-ikwVqdlXM4ao/view?usp=sharing)). That file have several functions:**
 
 - insts2dicts(arr : Array) -> Array
 
